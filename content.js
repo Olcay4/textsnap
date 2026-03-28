@@ -444,7 +444,8 @@
     const copyBtn = makeFilledButton(chrome.i18n.getMessage('copyToClipboard'));
     copyBtn.style.flex = '1';
     copyBtn.addEventListener('click', () => {
-      navigator.clipboard.writeText(textarea.value).then(() => {
+      const copyText = textarea.value.replace(/\r?\n/g, ' ').replace(/ {2,}/g, ' ').trim();
+      navigator.clipboard.writeText(copyText).then(() => {
         copyBtn.textContent = chrome.i18n.getMessage('copiedBang');
         copyBtn.style.background = '#2E7D32';
         setTimeout(() => {
@@ -524,7 +525,8 @@
 
         const hCopyBtn = makeSmallTonalButton(chrome.i18n.getMessage('copy'));
         hCopyBtn.addEventListener('click', () => {
-          navigator.clipboard.writeText(entry.text).then(() => {
+          const copyText = entry.text.replace(/\r?\n/g, ' ').replace(/ {2,}/g, ' ').trim();
+          navigator.clipboard.writeText(copyText).then(() => {
             hCopyBtn.textContent = '\u2713';
             setTimeout(() => { hCopyBtn.textContent = chrome.i18n.getMessage('copy'); }, 1500);
           });

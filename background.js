@@ -59,11 +59,12 @@ chrome.runtime.onMessage.addListener((message, sender) => {
 
 async function handleCapture() {
   try {
+    // Capture first — must happen before any other await to keep the
+    // activeTab gesture grant alive on a cold service-worker start.
+    const screenshot = await chrome.tabs.captureVisibleTab(null, { format: 'png' });
+
     const [tab] = await chrome.tabs.query({ active: true, currentWindow: true });
     if (!tab) return;
-
-    // Capture visible tab as PNG data URL
-    const screenshot = await chrome.tabs.captureVisibleTab(null, { format: 'png' });
 
     // Inject content script
     await chrome.scripting.executeScript({
