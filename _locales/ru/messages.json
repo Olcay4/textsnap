@@ -1,0 +1,50 @@
+{
+  "appName": {
+    "message": "TextSnap"
+  },
+  "appDesc": {
+    "message": "Нарисуйте область выделения на любой странице и мгновенно скопируйте текст с помощью локального OCR. 100% офлайн."
+  },
+  "actionTitle": {
+    "message": "TextSnap — Извлечь текст"
+  },
+  "selectInstruction": {
+    "message": "Перетащите для выбора  ·  Esc для отмены"
+  },
+  "extractingText": {
+    "message": "Извлечение текста…"
+  },
+  "newCapture": {
+    "message": "📷 Новый снимок"
+  },
+  "copyToClipboard": {
+    "message": "Копировать в буфер обмена"
+  },
+  "close": {
+    "message": "Закрыть"
+  },
+  "copiedBang": {
+    "message": "✓ Скопировано!"
+  },
+  "previousExtractions": {
+    "message": "Предыдущие извлечения"
+  },
+  "copy": {
+    "message": "Копировать"
+  },
+  "clearHistory": {
+    "message": "Очистить историю"
+  },
+  "history": {
+    "message": "История"
+  },
+  "noHistory": {
+    "message": "История пуста."
+  },
+  "remove": {
+    "message": "Удалить"
+  },
+  "copiedShort": {
+    "message": "✓ Скопировано"
+  }
+}

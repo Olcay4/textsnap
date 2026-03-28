@@ -1,0 +1,50 @@
+{
+  "appName": {
+    "message": "TextSnap"
+  },
+  "appDesc": {
+    "message": "在任意网页上框选区域，利用本地 OCR 即时提取文字。完全离线，100% 隐私。"
+  },
+  "actionTitle": {
+    "message": "TextSnap — 捕捉文字"
+  },
+  "selectInstruction": {
+    "message": "拖动以选择区域  ·  Esc 取消"
+  },
+  "extractingText": {
+    "message": "正在提取文字…"
+  },
+  "newCapture": {
+    "message": "📷 新建截取"
+  },
+  "copyToClipboard": {
+    "message": "复制到剪贴板"
+  },
+  "close": {
+    "message": "关闭"
+  },
+  "copiedBang": {
+    "message": "✓ 已复制！"
+  },
+  "previousExtractions": {
+    "message": "历史提取"
+  },
+  "copy": {
+    "message": "复制"
+  },
+  "clearHistory": {
+    "message": "清除历史记录"
+  },
+  "history": {
+    "message": "历史记录"
+  },
+  "noHistory": {
+    "message": "暂无历史记录。"
+  },
+  "remove": {
+    "message": "删除"
+  },
+  "copiedShort": {
+    "message": "✓ 已复制"
+  }
+}

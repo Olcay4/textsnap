@@ -1,0 +1,50 @@
+{
+  "appName": {
+    "message": "TextSnap"
+  },
+  "appDesc": {
+    "message": "ارسم تحديدًا على أي صفحة واستخرج النص فورًا باستخدام OCR محلي. 100% بدون اتصال."
+  },
+  "actionTitle": {
+    "message": "TextSnap — التقاط النص"
+  },
+  "selectInstruction": {
+    "message": "اسحب للتحديد  ·  Esc للإلغاء"
+  },
+  "extractingText": {
+    "message": "جارِ استخراج النص…"
+  },
+  "newCapture": {
+    "message": "📷 التقاط جديد"
+  },
+  "copyToClipboard": {
+    "message": "نسخ إلى الحافظة"
+  },
+  "close": {
+    "message": "إغلاق"
+  },
+  "copiedBang": {
+    "message": "✓ تم النسخ!"
+  },
+  "previousExtractions": {
+    "message": "الاستخراجات السابقة"
+  },
+  "copy": {
+    "message": "نسخ"
+  },
+  "clearHistory": {
+    "message": "مسح السجل"
+  },
+  "history": {
+    "message": "السجل"
+  },
+  "noHistory": {
+    "message": "لا يوجد سجل بعد."
+  },
+  "remove": {
+    "message": "إزالة"
+  },
+  "copiedShort": {
+    "message": "✓ تم النسخ"
+  }
+}

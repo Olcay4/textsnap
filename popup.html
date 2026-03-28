@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      width: 280px;
+      padding: 20px;
+      font-family: system-ui, -apple-system, 'Segoe UI', sans-serif;
+      background: #fff;
+    }
+    h3 {
+      font-size: 16px;
+      color: #1a1a1a;
+      margin-bottom: 8px;
+    }
+    p {
+      font-size: 13px;
+      color: #666;
+      line-height: 1.5;
+      margin-bottom: 16px;
+    }
+    button {
+      width: 100%;
+      padding: 10px 16px;
+      background: #4A90D9;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      font-size: 14px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: background 0.15s;
+    }
+    button:hover {
+      background: #357ABD;
+    }
+    button:active {
+      background: #2C6AA0;
+    }
+  </style>
+</head>
+<body>
+  <h3>Screen Copy</h3>
+  <p>Click the button below, then draw a rectangle over the text you want to extract.</p>
+  <button id="captureBtn">&#128247; Capture Text</button>
+  <script src="popup.js"></script>
+</body>
+</html>

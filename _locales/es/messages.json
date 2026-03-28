@@ -1,0 +1,50 @@
+{
+  "appName": {
+    "message": "TextSnap"
+  },
+  "appDesc": {
+    "message": "Dibuja una selección en cualquier página web y copia el texto al instante con OCR local. 100% sin conexión."
+  },
+  "actionTitle": {
+    "message": "TextSnap — Capturar texto"
+  },
+  "selectInstruction": {
+    "message": "Arrastra para seleccionar  ·  Esc para cancelar"
+  },
+  "extractingText": {
+    "message": "Extrayendo texto…"
+  },
+  "newCapture": {
+    "message": "📷 Nueva captura"
+  },
+  "copyToClipboard": {
+    "message": "Copiar al portapapeles"
+  },
+  "close": {
+    "message": "Cerrar"
+  },
+  "copiedBang": {
+    "message": "✓ ¡Copiado!"
+  },
+  "previousExtractions": {
+    "message": "Extracciones anteriores"
+  },
+  "copy": {
+    "message": "Copiar"
+  },
+  "clearHistory": {
+    "message": "Borrar historial"
+  },
+  "history": {
+    "message": "Historial"
+  },
+  "noHistory": {
+    "message": "Sin historial todavía."
+  },
+  "remove": {
+    "message": "Eliminar"
+  },
+  "copiedShort": {
+    "message": "✓ Copiado"
+  }
+}

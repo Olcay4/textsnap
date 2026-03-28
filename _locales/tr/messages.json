@@ -1,0 +1,50 @@
+{
+  "appName": {
+    "message": "TextSnap"
+  },
+  "appDesc": {
+    "message": "Herhangi bir web sayfasında bir alan seçerek metni anında yerel OCR ile kopyala. %100 çevrimedışı."
+  },
+  "actionTitle": {
+    "message": "TextSnap — Metin yakala"
+  },
+  "selectInstruction": {
+    "message": "Seçmek için sürükle  ·  İptal için Esc"
+  },
+  "extractingText": {
+    "message": "Metin çıkarılıyor…"
+  },
+  "newCapture": {
+    "message": "📷 Yeni Yakalama"
+  },
+  "copyToClipboard": {
+    "message": "Panoya kopyala"
+  },
+  "close": {
+    "message": "Kapat"
+  },
+  "copiedBang": {
+    "message": "✓ Kopyalandı!"
+  },
+  "previousExtractions": {
+    "message": "Önceki çıkarmalar"
+  },
+  "copy": {
+    "message": "Kopyala"
+  },
+  "clearHistory": {
+    "message": "Geçmişi temizle"
+  },
+  "history": {
+    "message": "Geçmiş"
+  },
+  "noHistory": {
+    "message": "Henüz geçmiş yok."
+  },
+  "remove": {
+    "message": "Kaldır"
+  },
+  "copiedShort": {
+    "message": "✓ Kopyalandı"
+  }
+}

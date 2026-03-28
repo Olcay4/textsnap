@@ -1,0 +1,50 @@
+{
+  "appName": {
+    "message": "TextSnap"
+  },
+  "appDesc": {
+    "message": "ウェブページ上で領域を選択し、デバイス内OCRでテキストを即座にコピー。完全オフライン。"
+  },
+  "actionTitle": {
+    "message": "TextSnap — テキストをキャプチャ"
+  },
+  "selectInstruction": {
+    "message": "ドラッグして領域を選択  ·  Escでキャンセル"
+  },
+  "extractingText": {
+    "message": "テキストを抽出中…"
+  },
+  "newCapture": {
+    "message": "📷 新しい選択"
+  },
+  "copyToClipboard": {
+    "message": "クリップボードにコピー"
+  },
+  "close": {
+    "message": "閉じる"
+  },
+  "copiedBang": {
+    "message": "✓ コピー完了！"
+  },
+  "previousExtractions": {
+    "message": "過去の抽出"
+  },
+  "copy": {
+    "message": "コピー"
+  },
+  "clearHistory": {
+    "message": "履歴をクリア"
+  },
+  "history": {
+    "message": "履歴"
+  },
+  "noHistory": {
+    "message": "まだ履歴はありません。"
+  },
+  "remove": {
+    "message": "削除"
+  },
+  "copiedShort": {
+    "message": "✓ コピー済み"
+  }
+}

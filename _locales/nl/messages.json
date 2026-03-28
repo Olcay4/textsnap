@@ -1,0 +1,50 @@
+{
+  "appName": {
+    "message": "TextSnap"
+  },
+  "appDesc": {
+    "message": "Teken een selectievak op een willekeurige webpagina en kopieer de tekst direct met lokale OCR. 100% offline."
+  },
+  "actionTitle": {
+    "message": "TextSnap — Tekst vastleggen"
+  },
+  "selectInstruction": {
+    "message": "Sleep om te selecteren  ·  Esc om te annuleren"
+  },
+  "extractingText": {
+    "message": "Tekst extraheren…"
+  },
+  "newCapture": {
+    "message": "📷 Nieuwe opname"
+  },
+  "copyToClipboard": {
+    "message": "Kopiëren naar klembord"
+  },
+  "close": {
+    "message": "Sluiten"
+  },
+  "copiedBang": {
+    "message": "✓ Gekopiëerd!"
+  },
+  "previousExtractions": {
+    "message": "Eerdere extracties"
+  },
+  "copy": {
+    "message": "Kopiëren"
+  },
+  "clearHistory": {
+    "message": "Geschiedenis wissen"
+  },
+  "history": {
+    "message": "Geschiedenis"
+  },
+  "noHistory": {
+    "message": "Nog geen geschiedenis."
+  },
+  "remove": {
+    "message": "Verwijderen"
+  },
+  "copiedShort": {
+    "message": "✓ Gekopiëerd"
+  }
+}

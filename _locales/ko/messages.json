@@ -1,0 +1,50 @@
+{
+  "appName": {
+    "message": "TextSnap"
+  },
+  "appDesc": {
+    "message": "웹페이지에서 영역을 선택하여 디바이스 OCR로 플리빐로 텍스트를 복사하세요. 100% 오프라인."
+  },
+  "actionTitle": {
+    "message": "TextSnap — 텍스트 캡처"
+  },
+  "selectInstruction": {
+    "message": "드래그하여 영역 선택  ·  Esc로 취소"
+  },
+  "extractingText": {
+    "message": "텍스트 추출 중…"
+  },
+  "newCapture": {
+    "message": "📷 새 캡처"
+  },
+  "copyToClipboard": {
+    "message": "클립보드에 복사"
+  },
+  "close": {
+    "message": "닫기"
+  },
+  "copiedBang": {
+    "message": "✓ 복사됨!"
+  },
+  "previousExtractions": {
+    "message": "이전 추출 내역"
+  },
+  "copy": {
+    "message": "복사"
+  },
+  "clearHistory": {
+    "message": "기록 지우기"
+  },
+  "history": {
+    "message": "기록"
+  },
+  "noHistory": {
+    "message": "아직 기록이 없습니다."
+  },
+  "remove": {
+    "message": "제거"
+  },
+  "copiedShort": {
+    "message": "✓ 복사됨"
+  }
+}
