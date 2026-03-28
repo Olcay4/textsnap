@@ -18,4 +18,4 @@ The extension does not use analytics, tracking cookies, or any external services
 
 ## Contact
 
-If you have any questions about this privacy policy, please open an issue on the [GitHub repository](https://github.com/).
+If you have any questions about this privacy policy, please open an issue on the [GitHub repository](https://github.com/Olcay4/textsnap).
